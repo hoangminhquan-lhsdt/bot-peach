@@ -1,0 +1,6 @@
+discord.py==1.7.3
+youtube-dl==2021.6.6
+aiohttp==3.7.4.post0
+pynacl==1.4.0
+distro==1.5.0
+psutil==5.8.0
